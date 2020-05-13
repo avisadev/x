@@ -9,12 +9,12 @@
 <url> <loc>https://www.avisa.dev//learn/internet-of-things-iot/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.avisa.dev//learn/creative-intelligence/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.avisa.dev//learn/natural-language-processing/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.avisa.dev//learn/deep-learning/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.avisa.dev//learn/streaming-data/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.avisa.dev//learn/reinforcement-learning/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.avisa.dev//learn/on-device-ai/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.avisa.dev//learn/serverless-computing/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.avisa.dev//learn/data-visualization/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.avisa.dev//learn/avisa-platform/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.avisa.dev//learn/serverless-computing/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.avisa.dev//learn/streaming-data/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.avisa.dev//tag/ai-labs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.avisa.dev//tag/ai-transformation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.avisa.dev//tag/data-science</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
