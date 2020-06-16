@@ -45,8 +45,6 @@ collections:
     files:
       - label: "Re"
         name: "re"
-        extension: "json"
-        format: "json"
         file: "renovate.json"
         fields:
-          - { name: "body", label: "Body", widget: "code" }
+          - { name: "prHourlyLimit"}
