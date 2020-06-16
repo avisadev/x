@@ -47,4 +47,4 @@ collections:
         name: "re"
         file: "renovate.json"
         fields:
-          - { name: "prHourlyLimit"}
+          - { label: "Rules", name: "packageRules", widget: "code" }
