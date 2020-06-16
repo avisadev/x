@@ -47,4 +47,4 @@ collections:
         name: "re"
         file: "renovate.json"
         fields:
-          - { label: "Rules", name: "packageRules", widget: "code" }
+          - { label: "Rules", name: "packageRules", widget: "string" }
